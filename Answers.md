@@ -2,17 +2,18 @@
 - Ilan Lavan: ilanlav@codevalue.com
 - Nir Albo: niral@codevalue.com
 - Open!
+---
 ### 1-3: Diagrams
-- Services
+- Services <br>
 ![Services](Services.PNG)
 
-- Swim-lane 1: Querying device state
+- Swim-lane 1: Querying device state <br>
 ![Querying_device_state](Query_device_state.PNG)
 
-- Swim-lane 2: Controlling devices
+- Swim-lane 2: Controlling devices <br>
 ![Controlling_devices](Controlling_devices.PNG)
 
-- Swim-lane 3: Device sends telemetry
+- Swim-lane 3: Device sends telemetry <br>
 ![Device_sends_telemetry](Device_sends_telemetry.PNG)
 ---
 ### 4: Proposed communication method
